@@ -12,6 +12,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "mqtt": "^5.1.4"
+    "mqtt": "^5.1.4",
+    "mqtt-request": "github:koenigscode/mqtt-request",
+    "jsonwebtoken": "^9.0.2",
+    "pg-native": "^3.0.1"
   }
 }
